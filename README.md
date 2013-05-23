@@ -4,18 +4,18 @@ j-boilerplate
 My custom boilerplate code for quickly building or prototyping responsive web apps. Read more about the motivation behind this project [here](http://jeshua.co/j-boilerplate/).
 
 ##Includes by default
-*[HTML5 Boilerplate](http://html5boilerplate.com/) - V4.0.2 - some of the 'fat' is trimmed
-*[Twitter Bootstrap](http://twitter.github.io/bootstrap/) - V2.3.0 - responsive styles included by default, as is `js/vendors/bootstrap.js`
-*[Modernizr](http://modernizr.com/) - V2.6.2 - a somewhat 'joblot/everything included' build
-*[jQuery](http://jquery.com/) -  V1.8.3
+* [HTML5 Boilerplate](http://html5boilerplate.com/) - V4.0.2 - some of the 'fat' is trimmed
+* [Twitter Bootstrap](http://twitter.github.io/bootstrap/) - V2.3.0 - responsive styles included by default, as is `js/vendors/bootstrap.js`
+* [Modernizr](http://modernizr.com/) - V2.6.2 - a somewhat 'joblot/everything included' build
+* [jQuery](http://jquery.com/) -  V1.8.3
 
 ##Reset
 I've modified the reset css from [Underscores](http://underscores.me/), a brilliant 'blank' WordPress theme. It include flavours of three different CSS resets (listed below) handily condensed into one blank SASS file, `css/sass/reset.scss`.
 
 The reset is not included by default. To include it in your project, simply uncomment line 12 of `css/sass/main.scss`.
-*[Reset.css](http://meyerweb.com/eric/tools/css/reset/)
-*[Normalize.css](http://necolas.github.io/normalize.css/)
-*[Blueprint.css](http://www.blueprintcss.org/)
+* [Reset.css](http://meyerweb.com/eric/tools/css/reset/)
+* [Normalize.css](http://necolas.github.io/normalize.css/)
+* [Blueprint.css](http://www.blueprintcss.org/)
 
 ##Responsive Design
 Using SASS, it's realtively simple to implement responsive styles while keeping a maintainable codebase. There are three files (which provide two 'break points') aimed, broadly speaking, at desktop, tablet and mobile phone displays. There is also a `.scss` file which targets specific devices with varying degrees of success.
