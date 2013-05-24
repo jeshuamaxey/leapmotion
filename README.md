@@ -1,7 +1,7 @@
-j-boilerplate
+Squared Paper
 =============
 
-A custom boilerplate of frequently used code for quickly building or prototyping responsive web apps. Read more about the motivation behind this project [here](http://jeshua.co/j-boilerplate/).
+A custom boilerplate of frequently used code for quickly building or prototyping responsive web apps. Read more about the motivation behind this project [here](http://jeshua.co/squared-paper/).
 
 ##Includes by default
 * [HTML5 Boilerplate](http://html5boilerplate.com/) - V4.0.2 - some of the 'fat' is trimmed
