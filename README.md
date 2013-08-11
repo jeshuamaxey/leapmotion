@@ -5,7 +5,7 @@ A custom boilerplate of frequently used code for quickly building or prototyping
 
 ##Includes by default
 * [HTML5 Boilerplate](http://html5boilerplate.com/) - V4.0.2 - some of the 'fat' is trimmed
-* [Twitter Bootstrap](http://twitter.github.io/bootstrap/) - V2.3.0 - standard & responsive styles and `js/vendors/bootstrap.js`
+* [Twitter Bootstrap](http://twitter.github.io/bootstrap/) - V3.0.0 - mobile first styles, the new [glyphicon icon font](http://glyphicons.getbootstrap.com/) and `js/vendors/bootstrap.js`
 * [Modernizr](http://modernizr.com/) - V2.6.2 - a somewhat 'joblot/everything included' build
 * [jQuery](http://jquery.com/) -  V1.8.3 - cos jQuery
 
