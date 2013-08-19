@@ -21,14 +21,19 @@
         <![endif]-->
 
         <!-- Add your site or application content here -->
-        <h1>Hello, w<span class="glyphicon glyphicon-heart-empty" style="font-size:60%"></span>rld!</h1>
-        <p class="lead">This is Squared Paper, an amalgamtaion of boilerplate code by <a href="http://twitter.com/jeshuamaxey">Jeshua Maxey</a>.</p>
+        <div class="jumbotron">
+            <h1>LeapMotion Demo</h1>
+            <p class="lead">I can currently see:</p>
+            <div class="well"><span id="numHands">0</span> hands</div>
+            <div class="well"><span id="numFingers">0</span> fingers</div>
+        </div>
 
         <!-- javascript -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.3.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="js/vendor/leapmotion/leap.js"></script>
         <script src="js/main.js"></script>
     </body>
 </html>
